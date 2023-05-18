@@ -1,3 +1,5 @@
+#!/bin/python
+
 import os
 
 # Prompt the user for the description and app name
